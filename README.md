@@ -8,7 +8,7 @@ _EASY GITHUB_
 
 
 - AMAR
-- AKHBAR
+- AKBAR
 - ANTHONY
 
 
